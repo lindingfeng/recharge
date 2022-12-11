@@ -1,0 +1,1001 @@
+export default [{
+  "country_name_zh": "阿富汗",
+  "country_iso_code3": "AFG",
+  "country_iso_code2": "AF"
+}, {
+  "country_name_zh": "奥兰群岛",
+  "country_iso_code3": "ALA",
+  "country_iso_code2": "AX"
+}, {
+  "country_name_zh": "阿尔巴尼亚",
+  "country_iso_code3": "ALB",
+  "country_iso_code2": "AL"
+}, {
+  "country_name_zh": "阿尔及利亚",
+  "country_iso_code3": "DZA",
+  "country_iso_code2": "DZ"
+}, {
+  "country_name_zh": "美属萨摩亚",
+  "country_iso_code3": "ASM",
+  "country_iso_code2": "AS"
+}, {
+  "country_name_zh": "安道尔",
+  "country_iso_code3": "AND",
+  "country_iso_code2": "AD"
+}, {
+  "country_name_zh": "安哥拉",
+  "country_iso_code3": "AGO",
+  "country_iso_code2": "AO"
+}, {
+  "country_name_zh": "安圭拉",
+  "country_iso_code3": "AIA",
+  "country_iso_code2": "AI"
+}, {
+  "country_name_zh": "南极洲",
+  "country_iso_code3": "ATA",
+  "country_iso_code2": "AQ"
+}, {
+  "country_name_zh": "安提瓜和巴布达",
+  "country_iso_code3": "ATG",
+  "country_iso_code2": "AG"
+}, {
+  "country_name_zh": "阿根廷",
+  "country_iso_code3": "ARG",
+  "country_iso_code2": "AR"
+}, {
+  "country_name_zh": "亚美尼亚",
+  "country_iso_code3": "ARM",
+  "country_iso_code2": "AM"
+}, {
+  "country_name_zh": "阿鲁巴",
+  "country_iso_code3": "ABW",
+  "country_iso_code2": "AW"
+}, {
+  "country_name_zh": "澳大利亚",
+  "country_iso_code3": "AUS",
+  "country_iso_code2": "AU"
+}, {
+  "country_name_zh": "奥地利",
+  "country_iso_code3": "AUT",
+  "country_iso_code2": "AT"
+}, {
+  "country_name_zh": "阿塞拜疆",
+  "country_iso_code3": "AZE",
+  "country_iso_code2": "AZ"
+}, {
+  "country_name_zh": "巴林",
+  "country_iso_code3": "BHR",
+  "country_iso_code2": "BH"
+}, {
+  "country_name_zh": "孟加拉",
+  "country_iso_code3": "BGD",
+  "country_iso_code2": "BD"
+}, {
+  "country_name_zh": "巴巴多斯",
+  "country_iso_code3": "BRB",
+  "country_iso_code2": "BB"
+}, {
+  "country_name_zh": "白俄罗斯",
+  "country_iso_code3": "BLR",
+  "country_iso_code2": "BY"
+}, {
+  "country_name_zh": "比利时",
+  "country_iso_code3": "BEL",
+  "country_iso_code2": "BE"
+}, {
+  "country_name_zh": "伯利兹",
+  "country_iso_code3": "BLZ",
+  "country_iso_code2": "BZ"
+}, {
+  "country_name_zh": "贝宁",
+  "country_iso_code3": "BEN",
+  "country_iso_code2": "BJ"
+}, {
+  "country_name_zh": "百慕大",
+  "country_iso_code3": "BMU",
+  "country_iso_code2": "BM"
+}, {
+  "country_name_zh": "不丹",
+  "country_iso_code3": "BTN",
+  "country_iso_code2": "BT"
+}, {
+  "country_name_zh": "玻利维亚",
+  "country_iso_code3": "BOL",
+  "country_iso_code2": "BO"
+}, {
+  "country_name_zh": "博内尔岛、圣尤斯特歇斯和萨巴岛",
+  "country_iso_code3": "BES",
+  "country_iso_code2": "BQ"
+}, {
+  "country_name_zh": "波斯尼亚和黑塞哥维那",
+  "country_iso_code3": "BIH",
+  "country_iso_code2": "BA"
+}, {
+  "country_name_zh": "博茨瓦纳",
+  "country_iso_code3": "BWA",
+  "country_iso_code2": "BW"
+}, {
+  "country_name_zh": "布维岛",
+  "country_iso_code3": "BVT",
+  "country_iso_code2": "BV"
+}, {
+  "country_name_zh": "巴西",
+  "country_iso_code3": "BRA",
+  "country_iso_code2": "BR"
+}, {
+  "country_name_zh": "英属印度洋领地",
+  "country_iso_code3": "IOT",
+  "country_iso_code2": "IO"
+}, {
+  "country_name_zh": "文莱",
+  "country_iso_code3": "BRN",
+  "country_iso_code2": "BN"
+}, {
+  "country_name_zh": "保加利亚",
+  "country_iso_code3": "BGR",
+  "country_iso_code2": "BG"
+}, {
+  "country_name_zh": "布基纳法索",
+  "country_iso_code3": "BFA",
+  "country_iso_code2": "BF"
+}, {
+  "country_name_zh": "布隆迪",
+  "country_iso_code3": "BDI",
+  "country_iso_code2": "BI"
+}, {
+  "country_name_zh": "柬埔寨",
+  "country_iso_code3": "KHM",
+  "country_iso_code2": "KH"
+}, {
+  "country_name_zh": "喀麦隆",
+  "country_iso_code3": "CMR",
+  "country_iso_code2": "CM"
+}, {
+  "country_name_zh": "加拿大",
+  "country_iso_code3": "CAN",
+  "country_iso_code2": "CA"
+}, {
+  "country_name_zh": "佛得角",
+  "country_iso_code3": "CPV",
+  "country_iso_code2": "CV"
+}, {
+  "country_name_zh": "开曼群岛",
+  "country_iso_code3": "CYM",
+  "country_iso_code2": "KY"
+}, {
+  "country_name_zh": "中非",
+  "country_iso_code3": "CAF",
+  "country_iso_code2": "CF"
+}, {
+  "country_name_zh": "乍得",
+  "country_iso_code3": "TCD",
+  "country_iso_code2": "TD"
+}, {
+  "country_name_zh": "智利",
+  "country_iso_code3": "CHL",
+  "country_iso_code2": "CL"
+}, {
+  "country_name_zh": "中国",
+  "country_iso_code3": "CHN",
+  "country_iso_code2": "CN"
+}, {
+  "country_name_zh": "圣诞岛",
+  "country_iso_code3": "CXR",
+  "country_iso_code2": "CX"
+}, {
+  "country_name_zh": "科科斯（基林）群岛",
+  "country_iso_code3": "CCK",
+  "country_iso_code2": "CC"
+}, {
+  "country_name_zh": "哥伦比亚",
+  "country_iso_code3": "COL",
+  "country_iso_code2": "CO"
+}, {
+  "country_name_zh": "科摩罗",
+  "country_iso_code3": "COM",
+  "country_iso_code2": "KM"
+}, {
+  "country_name_zh": "刚果",
+  "country_iso_code3": "COG",
+  "country_iso_code2": "CG"
+}, {
+  "country_name_zh": "库克群岛",
+  "country_iso_code3": "COK",
+  "country_iso_code2": "CK"
+}, {
+  "country_name_zh": "哥斯达黎加",
+  "country_iso_code3": "CRI",
+  "country_iso_code2": "CR"
+}, {
+  "country_name_zh": "科特迪瓦",
+  "country_iso_code3": "CIV",
+  "country_iso_code2": "CI"
+}, {
+  "country_name_zh": "克罗地亚",
+  "country_iso_code3": "HRV",
+  "country_iso_code2": "HR"
+}, {
+  "country_name_zh": "古巴",
+  "country_iso_code3": "CUB",
+  "country_iso_code2": "CU"
+}, {
+  "country_name_zh": "库拉索",
+  "country_iso_code3": "CUW",
+  "country_iso_code2": "CW"
+}, {
+  "country_name_zh": "塞浦路斯",
+  "country_iso_code3": "CYP",
+  "country_iso_code2": "CY"
+}, {
+  "country_name_zh": "捷克",
+  "country_iso_code3": "CZE",
+  "country_iso_code2": "CZ"
+}, {
+  "country_name_zh": "刚果（金）",
+  "country_iso_code3": "COD",
+  "country_iso_code2": "CD"
+}, {
+  "country_name_zh": "丹麦",
+  "country_iso_code3": "DNK",
+  "country_iso_code2": "DK"
+}, {
+  "country_name_zh": "吉布提",
+  "country_iso_code3": "DJI",
+  "country_iso_code2": "DJ"
+}, {
+  "country_name_zh": "多米尼加",
+  "country_iso_code3": "DMA",
+  "country_iso_code2": "DM"
+}, {
+  "country_name_zh": "多明尼加共和国",
+  "country_iso_code3": "DOM",
+  "country_iso_code2": "DO"
+}, {
+  "country_name_zh": "东帝汶",
+  "country_iso_code3": "TLS",
+  "country_iso_code2": "TL"
+}, {
+  "country_name_zh": "厄瓜多尔",
+  "country_iso_code3": "ECU",
+  "country_iso_code2": "EC"
+}, {
+  "country_name_zh": "埃及",
+  "country_iso_code3": "EGY",
+  "country_iso_code2": "EG"
+}, {
+  "country_name_zh": "萨尔瓦多",
+  "country_iso_code3": "SLV",
+  "country_iso_code2": "SV"
+}, {
+  "country_name_zh": "赤道几内亚",
+  "country_iso_code3": "GNQ",
+  "country_iso_code2": "GQ"
+}, {
+  "country_name_zh": "厄立特里亚",
+  "country_iso_code3": "ERI",
+  "country_iso_code2": "ER"
+}, {
+  "country_name_zh": "爱沙尼亚",
+  "country_iso_code3": "EST",
+  "country_iso_code2": "EE"
+}, {
+  "country_name_zh": "埃塞俄比亚",
+  "country_iso_code3": "ETH",
+  "country_iso_code2": "ET"
+}, {
+  "country_name_zh": "福克兰群岛",
+  "country_iso_code3": "FLK",
+  "country_iso_code2": "FK"
+}, {
+  "country_name_zh": "法罗群岛",
+  "country_iso_code3": "FRO",
+  "country_iso_code2": "FO"
+}, {
+  "country_name_zh": "斐济",
+  "country_iso_code3": "FJI",
+  "country_iso_code2": "FJ"
+}, {
+  "country_name_zh": "芬兰",
+  "country_iso_code3": "FIN",
+  "country_iso_code2": "FI"
+}, {
+  "country_name_zh": "法国",
+  "country_iso_code3": "FRA",
+  "country_iso_code2": "FR"
+}, {
+  "country_name_zh": "法属圭亚那",
+  "country_iso_code3": "GUF",
+  "country_iso_code2": "GF"
+}, {
+  "country_name_zh": "法属波利尼西亚",
+  "country_iso_code3": "PYF",
+  "country_iso_code2": "PF"
+}, {
+  "country_name_zh": "法属南部领地",
+  "country_iso_code3": "ATF",
+  "country_iso_code2": "TF"
+}, {
+  "country_name_zh": "加蓬",
+  "country_iso_code3": "GAB",
+  "country_iso_code2": "GA"
+}, {
+  "country_name_zh": "冈比亚",
+  "country_iso_code3": "GMB",
+  "country_iso_code2": "GM"
+}, {
+  "country_name_zh": "格鲁吉亚",
+  "country_iso_code3": "GEO",
+  "country_iso_code2": "GE"
+}, {
+  "country_name_zh": "德国",
+  "country_iso_code3": "DEU",
+  "country_iso_code2": "DE"
+}, {
+  "country_name_zh": "加纳",
+  "country_iso_code3": "GHA",
+  "country_iso_code2": "GH"
+}, {
+  "country_name_zh": "直布罗陀",
+  "country_iso_code3": "GIB",
+  "country_iso_code2": "GI"
+}, {
+  "country_name_zh": "希腊",
+  "country_iso_code3": "GRC",
+  "country_iso_code2": "GR"
+}, {
+  "country_name_zh": "格陵兰岛",
+  "country_iso_code3": "GRL",
+  "country_iso_code2": "GL"
+}, {
+  "country_name_zh": "格林纳达",
+  "country_iso_code3": "GRD",
+  "country_iso_code2": "GD"
+}, {
+  "country_name_zh": "瓜德罗普岛",
+  "country_iso_code3": "GLP",
+  "country_iso_code2": "GP"
+}, {
+  "country_name_zh": "关岛",
+  "country_iso_code3": "GUM",
+  "country_iso_code2": "GU"
+}, {
+  "country_name_zh": "危地马拉",
+  "country_iso_code3": "GTM",
+  "country_iso_code2": "GT"
+}, {
+  "country_name_zh": "根西岛",
+  "country_iso_code3": "GGY",
+  "country_iso_code2": "GG"
+}, {
+  "country_name_zh": "几内亚",
+  "country_iso_code3": "GIN",
+  "country_iso_code2": "GN"
+}, {
+  "country_name_zh": "几内亚比绍",
+  "country_iso_code3": "GNB",
+  "country_iso_code2": "GW"
+}, {
+  "country_name_zh": "圭亚那",
+  "country_iso_code3": "GUY",
+  "country_iso_code2": "GY"
+}, {
+  "country_name_zh": "海地",
+  "country_iso_code3": "HTI",
+  "country_iso_code2": "HT"
+}, {
+  "country_name_zh": "赫德·唐纳岛及麦唐纳岛",
+  "country_iso_code3": "HMD",
+  "country_iso_code2": "HM"
+}, {
+  "country_name_zh": "洪都拉斯",
+  "country_iso_code3": "HND",
+  "country_iso_code2": "HN"
+}, {
+  "country_name_zh": "中国香港",
+  "country_iso_code3": "HKG",
+  "country_iso_code2": "HK"
+}, {
+  "country_name_zh": "匈牙利",
+  "country_iso_code3": "HUN",
+  "country_iso_code2": "HU"
+}, {
+  "country_name_zh": "冰岛",
+  "country_iso_code3": "ISL",
+  "country_iso_code2": "IS"
+}, {
+  "country_name_zh": "印度",
+  "country_iso_code3": "IND",
+  "country_iso_code2": "IN"
+}, {
+  "country_name_zh": "印度尼西亚",
+  "country_iso_code3": "IDN",
+  "country_iso_code2": "ID"
+}, {
+  "country_name_zh": "伊朗",
+  "country_iso_code3": "IRN",
+  "country_iso_code2": "IR"
+}, {
+  "country_name_zh": "伊拉克",
+  "country_iso_code3": "IRQ",
+  "country_iso_code2": "IQ"
+}, {
+  "country_name_zh": "爱尔兰",
+  "country_iso_code3": "IRL",
+  "country_iso_code2": "IE"
+}, {
+  "country_name_zh": "以色列",
+  "country_iso_code3": "ISR",
+  "country_iso_code2": "IL"
+}, {
+  "country_name_zh": "意大利",
+  "country_iso_code3": "ITA",
+  "country_iso_code2": "IT"
+}, {
+  "country_name_zh": "牙买加",
+  "country_iso_code3": "JAM",
+  "country_iso_code2": "JM"
+}, {
+  "country_name_zh": "日本",
+  "country_iso_code3": "JPN",
+  "country_iso_code2": "JP"
+}, {
+  "country_name_zh": "泽西岛",
+  "country_iso_code3": "JEY",
+  "country_iso_code2": "JE"
+}, {
+  "country_name_zh": "约旦",
+  "country_iso_code3": "JOR",
+  "country_iso_code2": "JO"
+}, {
+  "country_name_zh": "哈萨克斯坦",
+  "country_iso_code3": "KAZ",
+  "country_iso_code2": "KZ"
+}, {
+  "country_name_zh": "肯尼亚",
+  "country_iso_code3": "KEN",
+  "country_iso_code2": "KE"
+}, {
+  "country_name_zh": "基里巴斯",
+  "country_iso_code3": "KIR",
+  "country_iso_code2": "KI"
+}, {
+  "country_name_zh": "科索沃",
+  "country_iso_code3": "XKX",
+  "country_iso_code2": "XK"
+}, {
+  "country_name_zh": "科威特",
+  "country_iso_code3": "KWT",
+  "country_iso_code2": "KW"
+}, {
+  "country_name_zh": "吉尔吉斯斯坦",
+  "country_iso_code3": "KGZ",
+  "country_iso_code2": "KG"
+}, {
+  "country_name_zh": "老挝人民民主共和国",
+  "country_iso_code3": "LAO",
+  "country_iso_code2": "LA"
+}, {
+  "country_name_zh": "拉脱维亚",
+  "country_iso_code3": "LVA",
+  "country_iso_code2": "LV"
+}, {
+  "country_name_zh": "黎巴嫩",
+  "country_iso_code3": "LBN",
+  "country_iso_code2": "LB"
+}, {
+  "country_name_zh": "莱索托",
+  "country_iso_code3": "LSO",
+  "country_iso_code2": "LS"
+}, {
+  "country_name_zh": "利比里亚",
+  "country_iso_code3": "LBR",
+  "country_iso_code2": "LR"
+}, {
+  "country_name_zh": "利比亚",
+  "country_iso_code3": "LBY",
+  "country_iso_code2": "LY"
+}, {
+  "country_name_zh": "列支敦士登",
+  "country_iso_code3": "LIE",
+  "country_iso_code2": "LI"
+}, {
+  "country_name_zh": "立陶宛",
+  "country_iso_code3": "LTU",
+  "country_iso_code2": "LT"
+}, {
+  "country_name_zh": "卢森堡",
+  "country_iso_code3": "LUX",
+  "country_iso_code2": "LU"
+}, {
+  "country_name_zh": "中国澳门",
+  "country_iso_code3": "MAC",
+  "country_iso_code2": "MO"
+}, {
+  "country_name_zh": "马其顿",
+  "country_iso_code3": "MKD",
+  "country_iso_code2": "MK"
+}, {
+  "country_name_zh": "马达加斯加",
+  "country_iso_code3": "MDG",
+  "country_iso_code2": "MG"
+}, {
+  "country_name_zh": "马拉维",
+  "country_iso_code3": "MWI",
+  "country_iso_code2": "MW"
+}, {
+  "country_name_zh": "马来西亚",
+  "country_iso_code3": "MYS",
+  "country_iso_code2": "MY"
+}, {
+  "country_name_zh": "马尔代夫",
+  "country_iso_code3": "MDV",
+  "country_iso_code2": "MV"
+}, {
+  "country_name_zh": "马里",
+  "country_iso_code3": "MLI",
+  "country_iso_code2": "ML"
+}, {
+  "country_name_zh": "马耳他",
+  "country_iso_code3": "MLT",
+  "country_iso_code2": "MT"
+}, {
+  "country_name_zh": "马恩岛",
+  "country_iso_code3": "IMN",
+  "country_iso_code2": "IM"
+}, {
+  "country_name_zh": "马绍尔群岛",
+  "country_iso_code3": "MHL",
+  "country_iso_code2": "MH"
+}, {
+  "country_name_zh": "马提尼克岛",
+  "country_iso_code3": "MTQ",
+  "country_iso_code2": "MQ"
+}, {
+  "country_name_zh": "毛里塔尼亚",
+  "country_iso_code3": "MRT",
+  "country_iso_code2": "MR"
+}, {
+  "country_name_zh": "毛里求斯",
+  "country_iso_code3": "MUS",
+  "country_iso_code2": "MU"
+}, {
+  "country_name_zh": "马约特",
+  "country_iso_code3": "MYT",
+  "country_iso_code2": "YT"
+}, {
+  "country_name_zh": "墨西哥",
+  "country_iso_code3": "MEX",
+  "country_iso_code2": "MX"
+}, {
+  "country_name_zh": "密克罗尼西亚",
+  "country_iso_code3": "FSM",
+  "country_iso_code2": "FM"
+}, {
+  "country_name_zh": "摩尔多瓦",
+  "country_iso_code3": "MDA",
+  "country_iso_code2": "MD"
+}, {
+  "country_name_zh": "摩纳哥",
+  "country_iso_code3": "MCO",
+  "country_iso_code2": "MC"
+}, {
+  "country_name_zh": "蒙古",
+  "country_iso_code3": "MNG",
+  "country_iso_code2": "MN"
+}, {
+  "country_name_zh": "黑山",
+  "country_iso_code3": "MNE",
+  "country_iso_code2": "ME"
+}, {
+  "country_name_zh": "蒙特塞拉特",
+  "country_iso_code3": "MSR",
+  "country_iso_code2": "MS"
+}, {
+  "country_name_zh": "摩洛哥",
+  "country_iso_code3": "MAR",
+  "country_iso_code2": "MA"
+}, {
+  "country_name_zh": "莫桑比克",
+  "country_iso_code3": "MOZ",
+  "country_iso_code2": "MZ"
+}, {
+  "country_name_zh": "缅甸",
+  "country_iso_code3": "MMR",
+  "country_iso_code2": "MM"
+}, {
+  "country_name_zh": "纳米比亚",
+  "country_iso_code3": "NAM",
+  "country_iso_code2": "NA"
+}, {
+  "country_name_zh": "瑙鲁",
+  "country_iso_code3": "NRU",
+  "country_iso_code2": "NR"
+}, {
+  "country_name_zh": "尼泊尔",
+  "country_iso_code3": "NPL",
+  "country_iso_code2": "NP"
+}, {
+  "country_name_zh": "荷兰",
+  "country_iso_code3": "NLD",
+  "country_iso_code2": "NL"
+}, {
+  "country_name_zh": "新喀里多尼亚",
+  "country_iso_code3": "NCL",
+  "country_iso_code2": "NC"
+}, {
+  "country_name_zh": "新西兰",
+  "country_iso_code3": "NZL",
+  "country_iso_code2": "NZ"
+}, {
+  "country_name_zh": "尼加拉瓜",
+  "country_iso_code3": "NIC",
+  "country_iso_code2": "NI"
+}, {
+  "country_name_zh": "尼日尔",
+  "country_iso_code3": "NER",
+  "country_iso_code2": "NE"
+}, {
+  "country_name_zh": "尼日利亚",
+  "country_iso_code3": "NGA",
+  "country_iso_code2": "NG"
+}, {
+  "country_name_zh": "纽埃",
+  "country_iso_code3": "NIU",
+  "country_iso_code2": "NU"
+}, {
+  "country_name_zh": "诺福克岛",
+  "country_iso_code3": "NFK",
+  "country_iso_code2": "NF"
+}, {
+  "country_name_zh": "朝鲜",
+  "country_iso_code3": "PRK",
+  "country_iso_code2": "KP"
+}, {
+  "country_name_zh": "北马里亚纳群岛",
+  "country_iso_code3": "MNP",
+  "country_iso_code2": "MP"
+}, {
+  "country_name_zh": "挪威",
+  "country_iso_code3": "NOR",
+  "country_iso_code2": "NO"
+}, {
+  "country_name_zh": "阿曼",
+  "country_iso_code3": "OMN",
+  "country_iso_code2": "OM"
+}, {
+  "country_name_zh": "巴基斯坦",
+  "country_iso_code3": "PAK",
+  "country_iso_code2": "PK"
+}, {
+  "country_name_zh": "帕劳",
+  "country_iso_code3": "PLW",
+  "country_iso_code2": "PW"
+}, {
+  "country_name_zh": "巴勒斯坦",
+  "country_iso_code3": "PSE",
+  "country_iso_code2": "PS"
+}, {
+  "country_name_zh": "巴拿马",
+  "country_iso_code3": "PAN",
+  "country_iso_code2": "PA"
+}, {
+  "country_name_zh": "巴布亚新几内亚",
+  "country_iso_code3": "PNG",
+  "country_iso_code2": "PG"
+}, {
+  "country_name_zh": "巴拉圭",
+  "country_iso_code3": "PRY",
+  "country_iso_code2": "PY"
+}, {
+  "country_name_zh": "秘鲁",
+  "country_iso_code3": "PER",
+  "country_iso_code2": "PE"
+}, {
+  "country_name_zh": "菲律宾",
+  "country_iso_code3": "PHL",
+  "country_iso_code2": "PH"
+}, {
+  "country_name_zh": "皮特凯恩群岛",
+  "country_iso_code3": "PCN",
+  "country_iso_code2": "PN"
+}, {
+  "country_name_zh": "波兰",
+  "country_iso_code3": "POL",
+  "country_iso_code2": "PL"
+}, {
+  "country_name_zh": "葡萄牙",
+  "country_iso_code3": "PRT",
+  "country_iso_code2": "PT"
+}, {
+  "country_name_zh": "波多黎各",
+  "country_iso_code3": "PRI",
+  "country_iso_code2": "PR"
+}, {
+  "country_name_zh": "卡塔尔",
+  "country_iso_code3": "QAT",
+  "country_iso_code2": "QA"
+}, {
+  "country_name_zh": "留尼汪岛",
+  "country_iso_code3": "REU",
+  "country_iso_code2": "RE"
+}, {
+  "country_name_zh": "罗马尼亚",
+  "country_iso_code3": "ROU",
+  "country_iso_code2": "RO"
+}, {
+  "country_name_zh": "俄罗斯联邦",
+  "country_iso_code3": "RUS",
+  "country_iso_code2": "RU"
+}, {
+  "country_name_zh": "卢旺达",
+  "country_iso_code3": "RWA",
+  "country_iso_code2": "RW"
+}, {
+  "country_name_zh": "圣赫勒拿",
+  "country_iso_code3": "SHN",
+  "country_iso_code2": "SH"
+}, {
+  "country_name_zh": "圣基茨和尼维斯",
+  "country_iso_code3": "KNA",
+  "country_iso_code2": "KN"
+}, {
+  "country_name_zh": "圣卢西亚",
+  "country_iso_code3": "LCA",
+  "country_iso_code2": "LC"
+}, {
+  "country_name_zh": "圣皮埃尔和密克隆",
+  "country_iso_code3": "SPM",
+  "country_iso_code2": "PM"
+}, {
+  "country_name_zh": "圣文森特和格林纳丁斯",
+  "country_iso_code3": "VCT",
+  "country_iso_code2": "VC"
+}, {
+  "country_name_zh": "圣巴泰勒米",
+  "country_iso_code3": "BLM",
+  "country_iso_code2": "BL"
+}, {
+  "country_name_zh": "密克罗尼西亚",
+  "country_iso_code3": "MAF",
+  "country_iso_code2": "MF"
+}, {
+  "country_name_zh": "萨摩亚",
+  "country_iso_code3": "WSM",
+  "country_iso_code2": "WS"
+}, {
+  "country_name_zh": "圣马力诺",
+  "country_iso_code3": "SMR",
+  "country_iso_code2": "SM"
+}, {
+  "country_name_zh": "圣多美和普林西比",
+  "country_iso_code3": "STP",
+  "country_iso_code2": "ST"
+}, {
+  "country_name_zh": "沙特阿拉伯",
+  "country_iso_code3": "SAU",
+  "country_iso_code2": "SA"
+}, {
+  "country_name_zh": "塞内加尔",
+  "country_iso_code3": "SEN",
+  "country_iso_code2": "SN"
+}, {
+  "country_name_zh": "塞尔维亚",
+  "country_iso_code3": "SRB",
+  "country_iso_code2": "RS"
+}, {
+  "country_name_zh": "塞舌尔",
+  "country_iso_code3": "SYC",
+  "country_iso_code2": "SC"
+}, {
+  "country_name_zh": "塞拉利昂",
+  "country_iso_code3": "SLE",
+  "country_iso_code2": "SL"
+}, {
+  "country_name_zh": "新加坡",
+  "country_iso_code3": "SGP",
+  "country_iso_code2": "SG"
+}, {
+  "country_name_zh": "圣马丁岛（荷兰部分）",
+  "country_iso_code3": "SXM",
+  "country_iso_code2": "SX"
+}, {
+  "country_name_zh": "斯洛伐克",
+  "country_iso_code3": "SVK",
+  "country_iso_code2": "SK"
+}, {
+  "country_name_zh": "斯洛文尼亚",
+  "country_iso_code3": "SVN",
+  "country_iso_code2": "SI"
+}, {
+  "country_name_zh": "所罗门群岛",
+  "country_iso_code3": "SLB",
+  "country_iso_code2": "SB"
+}, {
+  "country_name_zh": "索马里",
+  "country_iso_code3": "SOM",
+  "country_iso_code2": "SO"
+}, {
+  "country_name_zh": "南非",
+  "country_iso_code3": "ZAF",
+  "country_iso_code2": "ZA"
+}, {
+  "country_name_zh": "南乔治亚",
+  "country_iso_code3": "SGS",
+  "country_iso_code2": "GS"
+}, {
+  "country_name_zh": "韩国",
+  "country_iso_code3": "KOR",
+  "country_iso_code2": "KR"
+}, {
+  "country_name_zh": "南苏丹",
+  "country_iso_code3": "SSD",
+  "country_iso_code2": "SS"
+}, {
+  "country_name_zh": "西班牙",
+  "country_iso_code3": "ESP",
+  "country_iso_code2": "ES"
+}, {
+  "country_name_zh": "斯里兰卡",
+  "country_iso_code3": "LKA",
+  "country_iso_code2": "LK"
+}, {
+  "country_name_zh": "苏丹",
+  "country_iso_code3": "SDN",
+  "country_iso_code2": "SD"
+}, {
+  "country_name_zh": "苏里南",
+  "country_iso_code3": "SUR",
+  "country_iso_code2": "SR"
+}, {
+  "country_name_zh": "斯瓦尔巴和扬马延群岛",
+  "country_iso_code3": "SJM",
+  "country_iso_code2": "SJ"
+}, {
+  "country_name_zh": "斯威士兰",
+  "country_iso_code3": "SWZ",
+  "country_iso_code2": "SZ"
+}, {
+  "country_name_zh": "瑞典",
+  "country_iso_code3": "SWE",
+  "country_iso_code2": "SE"
+}, {
+  "country_name_zh": "瑞士",
+  "country_iso_code3": "CHE",
+  "country_iso_code2": "CH"
+}, {
+  "country_name_zh": "叙利亚",
+  "country_iso_code3": "SYR",
+  "country_iso_code2": "SY"
+}, {
+  "country_name_zh": "中国台湾",
+  "country_iso_code3": "TWN",
+  "country_iso_code2": "TW"
+}, {
+  "country_name_zh": "塔吉克斯坦",
+  "country_iso_code3": "TJK",
+  "country_iso_code2": "TJ"
+}, {
+  "country_name_zh": "坦桑尼亚",
+  "country_iso_code3": "TZA",
+  "country_iso_code2": "TZ"
+}, {
+  "country_name_zh": "泰国",
+  "country_iso_code3": "THA",
+  "country_iso_code2": "TH"
+}, {
+  "country_name_zh": "巴哈马",
+  "country_iso_code3": "BHS",
+  "country_iso_code2": "BS"
+}, {
+  "country_name_zh": "多哥",
+  "country_iso_code3": "TGO",
+  "country_iso_code2": "TG"
+}, {
+  "country_name_zh": "托克劳",
+  "country_iso_code3": "TKL",
+  "country_iso_code2": "TK"
+}, {
+  "country_name_zh": "汤加",
+  "country_iso_code3": "TON",
+  "country_iso_code2": "TO"
+}, {
+  "country_name_zh": "特立尼达和多巴哥",
+  "country_iso_code3": "TTO",
+  "country_iso_code2": "TT"
+}, {
+  "country_name_zh": "突尼斯",
+  "country_iso_code3": "TUN",
+  "country_iso_code2": "TN"
+}, {
+  "country_name_zh": "土耳其",
+  "country_iso_code3": "TUR",
+  "country_iso_code2": "TR"
+}, {
+  "country_name_zh": "土库曼斯坦",
+  "country_iso_code3": "TKM",
+  "country_iso_code2": "TM"
+}, {
+  "country_name_zh": "特克斯和凯科斯群岛",
+  "country_iso_code3": "TCA",
+  "country_iso_code2": "TC"
+}, {
+  "country_name_zh": "图瓦卢",
+  "country_iso_code3": "TUV",
+  "country_iso_code2": "TV"
+}, {
+  "country_name_zh": "乌干达",
+  "country_iso_code3": "UGA",
+  "country_iso_code2": "UG"
+}, {
+  "country_name_zh": "乌克兰",
+  "country_iso_code3": "UKR",
+  "country_iso_code2": "UA"
+}, {
+  "country_name_zh": "阿拉伯联合酋长国",
+  "country_iso_code3": "ARE",
+  "country_iso_code2": "AE"
+}, {
+  "country_name_zh": "英国",
+  "country_iso_code3": "GBR",
+  "country_iso_code2": "GB"
+}, {
+  "country_name_zh": "美国",
+  "country_iso_code3": "USA",
+  "country_iso_code2": "US"
+}, {
+  "country_name_zh": "美国本土外小岛屿",
+  "country_iso_code3": "UMI",
+  "country_iso_code2": "UM"
+}, {
+  "country_name_zh": "乌拉圭",
+  "country_iso_code3": "URY",
+  "country_iso_code2": "UY"
+}, {
+  "country_name_zh": "乌兹别克斯坦",
+  "country_iso_code3": "UZB",
+  "country_iso_code2": "UZ"
+}, {
+  "country_name_zh": "瓦努阿图",
+  "country_iso_code3": "VUT",
+  "country_iso_code2": "VU"
+}, {
+  "country_name_zh": "梵蒂冈",
+  "country_iso_code3": "VAT",
+  "country_iso_code2": "VA"
+}, {
+  "country_name_zh": "委内瑞拉",
+  "country_iso_code3": "VEN",
+  "country_iso_code2": "VE"
+}, {
+  "country_name_zh": "越南",
+  "country_iso_code3": "VNM",
+  "country_iso_code2": "VN"
+}, {
+  "country_name_zh": "圣文森特和格林纳丁斯",
+  "country_iso_code3": "VGB",
+  "country_iso_code2": "VG"
+}, {
+  "country_name_zh": "维尔京群岛（美国）",
+  "country_iso_code3": "VIR",
+  "country_iso_code2": "VI"
+}, {
+  "country_name_zh": "瓦利斯群岛和富图纳群岛",
+  "country_iso_code3": "WLF",
+  "country_iso_code2": "WF"
+}, {
+  "country_name_zh": "西撒哈拉",
+  "country_iso_code3": "ESH",
+  "country_iso_code2": "EH"
+}, {
+  "country_name_zh": "也门",
+  "country_iso_code3": "YEM",
+  "country_iso_code2": "YE"
+}, {
+  "country_name_zh": "赞比亚",
+  "country_iso_code3": "ZMB",
+  "country_iso_code2": "ZM"
+}, {
+  "country_name_zh": "津巴布韦",
+  "country_iso_code3": "ZWE",
+  "country_iso_code2": "ZW"
+}]

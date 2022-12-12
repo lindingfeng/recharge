@@ -16,14 +16,6 @@
   </div>
 </template>
 
-<script>
-export default {
-  methods: {
-    testHandler () {}
-  },
-}
-</script>
-
 <script setup>
 import { reactive, onMounted } from 'vue'
 import { useCommonStore } from '@/store/common'
@@ -31,6 +23,7 @@ import CountryInputGroup from '@/components/business/country-input-group/index.v
 import RechargeGroup from '@/components/business/recharge-group/index.vue'
 import BannerGroup from '@/components/business/banner-group/index.vue'
 import { rechargeList } from '@/config'
+import apis from '@/apis'
 
 const commonStore = useCommonStore()
 
@@ -40,7 +33,10 @@ const data = reactive({
   bannerList: []
 })
 
-onMounted()
+onMounted(async () => {
+  const [res, err] = await apis.login()
+  console.log(res, err)
+})
 
 </script>
 

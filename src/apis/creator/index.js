@@ -54,8 +54,8 @@ export default class HttpService extends BaseService {
     const formData = new FormData()
     
     config.data = config.data || {}
-
-    config.data.token = userStore.userInfo?.token || getUserInfo('token')
+    
+    config.headers['Access-Token'] = userStore.userInfo?.token || getUserInfo('token')
 
     const signData = this._getSignData()
 
@@ -63,9 +63,9 @@ export default class HttpService extends BaseService {
 
     formData.append('filename', config.data.filename)
     formData.append('token', config.data.token)
-    formData.append('appId', signData.appId)
+    formData.append('app_id', signData.app_id)
     formData.append('timestamp', signData.timestamp)
-    formData.append('nonceStr', signData.nonceStr)
+    formData.append('nonce_str', signData.nonce_str)
     formData.append('sign', signData.sign)
     
     config.data = formData

@@ -17,6 +17,11 @@ import IconTrafficRecharge from '@/assets/imgs/common/icon_traffic_recharge.png'
 import IconRechargeOrder from '@/assets/imgs/common/icon_recharge_order.png'
 import IconPromoteRecord from '@/assets/imgs/common/icon_promote_record.png'
 
+import IconPayWechat from '@/assets/imgs/common/icon_pay_wechat.png'
+import IconPayAlipay from '@/assets/imgs/common/icon_pay_alipay.png'
+import IconPayNor from '@/assets/imgs/common/icon_pay_nor.png'
+import IconPaySel from '@/assets/imgs/common/icon_pay_sel.png'
+
 // export const apiHost = 'http://topuphub.top'
 export const apiHost = '/'
 export const appId = 'topuphubYIW5MTXU5tglVWjK'
@@ -42,4 +47,9 @@ export const rechargeList = [
 export const userMenuList = [
   { name: '充值订单', icon: IconRechargeOrder, path: '/recharge/list' },
   { name: '我的推广', icon: IconPromoteRecord, path: '/promote' }
+]
+
+export const rechargeWayList = [
+  { id: '1', name: '微信', icon: IconPayWechat, norIcon: IconPayNor, selIcon: IconPaySel },
+  { id: '2', name: '支付宝', icon: IconPayAlipay, norIcon: IconPayNor, selIcon: IconPaySel }
 ]

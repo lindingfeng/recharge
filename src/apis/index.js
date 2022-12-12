@@ -14,7 +14,7 @@ export { http }
 export default {
   // 登录
   login (body) {
-    return http.service.get(`/common/test_sign`, body);
+    return http.service.post(`/common/test_sign`, body);
   },
   // 获取用户信息
   getUserInfo (body) {

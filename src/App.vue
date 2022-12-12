@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <NavigationBar />
+    <NavigationBar
+      v-if="!isShowTabBar"
+    />
     <router-view
       ref="routerRef"
       :key="baseStore.timestamp"

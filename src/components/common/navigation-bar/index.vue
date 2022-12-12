@@ -3,8 +3,9 @@
     <div class="navigation-bar-body">
       <div class="navigation-bar-left" @click="router.go(-1)">
         <img class="icon-back" src="@/assets/imgs/common/icon_back.png" />
-        <div class="navigation-bar-title">{{ routeInfo.meta.title }}</div>
+        <div v-if="routeInfo.meta.rightTitle" class="left-title">{{ routeInfo.meta.title }}</div>
       </div>
+      <div v-if="!routeInfo.meta.rightTitle" class="navigation-bar-title">{{ routeInfo.meta.title }}</div>
       <div class="navigation-bar-right">
         <slot name="right-content">
           <span v-if="routeInfo.meta.rightTitle" class="right-title" @click="rightHandler">{{ routeInfo.meta.rightTitle }}</span>

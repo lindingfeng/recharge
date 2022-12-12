@@ -34,6 +34,14 @@ const router = new VueRouter({
       }
     },
     {
+      path: '/recharge',
+      name: 'Recharge',
+      component: () => import('@/views/recharge/index.vue'),
+      meta: {
+        title: '收银台'
+      }
+    },
+    {
       path: '/recharge/list',
       name: 'RechargeList',
       component: () => import('@/views/recharge/list.vue'),

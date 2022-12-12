@@ -63,29 +63,25 @@ export default class BaseService {
    */
   _getSignData () {
     return {
-      appId: this.appId,
-      timeStamp: parseInt(new Date() / 1000, 10),
-      nonceStr: randomWord(false, 6)
+      app_id: this.appId,
+      timestamp: parseInt(new Date() / 1000, 10),
+      nonce_str: randomWord(false, 6)
     }
   }
   /**
    * 默认Request处理
    */
   defaultRequest (config) {
+    console.log('config', config)
     const userStore = useUserStore()
 
     const signData = this._getSignData()
-    
-    // config.data = config.data || {}
-    // config.data.token = userStore.userInfo?.token || getUserInfo('token')
-    // config.data.sign = createApiSign(this.appSecret, Object.assign({}, signData))
-    // config.data = createFormData(config.data)
-    // Object.assign(config.data, signData)
 
-    config.params = config.params || {}
-    config.params.token = userStore.userInfo?.token || getUserInfo('token') || '123456789'
-    config.params.sign = createApiSign(this.appSecret, Object.assign({}, signData))
-    Object.assign(config.params, signData)
+    config.headers['Access-Token'] = userStore.userInfo?.token || getUserInfo('token')
+
+    config.data = config.data || {}
+    config.data.sign = createApiSign(this.appSecret, Object.assign({}, signData))
+    Object.assign(config.data, signData)
 
     this.hooks.onBeforeRequest && this.hooks.onBeforeRequest(config)
     
@@ -118,6 +114,20 @@ export default class BaseService {
    */
   defaultResponseError (error) {
     this.hooks.onResponseError && this.hooks.onResponseError(error)
+    switch (error.response.status) {
+      case 400:
+        console.log('缺失参数')
+        break;
+      case 401:
+        console.log('用户身份认证失败')
+        break;
+      case 403:
+        console.log('签名认证失败')
+        break;
+      case 500:
+        console.log('服务端错误')
+        break;
+    }
     return Promise.resolve([{}, error])
   }
 }

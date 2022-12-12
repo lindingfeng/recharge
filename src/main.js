@@ -8,6 +8,9 @@ import router from '@/router'
 import apis from '@/apis'
 import '@/common/flexible'
 
+import VConsole from 'vconsole/dist/vconsole.min.js'
+new VConsole()
+
 Vue.use(PiniaVuePlugin)
 
 Vue.prototype.$apis = apis
